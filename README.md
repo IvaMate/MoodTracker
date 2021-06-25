@@ -1,16 +1,18 @@
 # myapp
+HackAD - Mood Tracker Mobile App
+Jun 2021
 
-A new Flutter project.
+Project descriptionIn four European countries (Italy, Greece, Croatia and France), the project partners set up Social Hackademy Labs and, through an extensive 100-hour combined training course, educate a total of 120 disadvantaged young people aged 16 to 29. three areas:
+- development of native mobile applications,
+- web design and
+- visual and graphic design.
 
-## Getting Started
+I was designing an app for an organization called Feniks, which wanted an app for mental health.
+UI and UX design was made using Figma,
+(Link: https://www.figma.com/proto/Uv4CvcNggUpKyDKeK0EJTb/Untitled?node-id=91%3A149&scaling=scale-down&page-id=9%3A460 )
+Mobile app was made in Dart with Flutter framework.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I managed to make a sign in/register screen, home screen where user can see their moods for the day and main function of the app which is mood tracking. App is connected with Google Firebase.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I won an award for best innovative idea ( UX design ).
