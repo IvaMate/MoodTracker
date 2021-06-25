@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722116852279",
+    "project_id": "aplikacija-e25ac",
+    "storage_bucket": "aplikacija-e25ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722116852279:android:821d11e4d23137c660ddb2",
+        "android_client_info": {
+          "package_name": "com.fenix.fenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722116852279-7ta2dd1ar762a4jgnl5nh12hp92ghpug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2G6_ESeaunPww-2GOgY8VziwVQj1hqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722116852279-7ta2dd1ar762a4jgnl5nh12hp92ghpug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
