@@ -2,7 +2,7 @@
 HackAD - Mood Tracker Mobile App
 Jun 2021
 
-Project descriptionIn four European countries (Italy, Greece, Croatia and France), the project partners set up Social Hackademy Labs and, through an extensive 100-hour combined training course, educate a total of 120 disadvantaged young people aged 16 to 29. three areas:
+In four European countries (Italy, Greece, Croatia and France), the project partners set up Social Hackademy Labs and, through an extensive 100-hour combined training course, educate a total of 120 disadvantaged young people aged 16 to 29. three areas:
 - development of native mobile applications,
 - web design and
 - visual and graphic design.
@@ -13,6 +13,5 @@ UI and UX design was made using Figma,
 Mobile app was made in Dart with Flutter framework.
 
 
-I managed to make a sign in/register screen, home screen where user can see their moods for the day and main function of the app which is mood tracking. App is connected with Google Firebase.
+The app has sign in/register screen, home screen where user can see their moods for the day and main function of the app which is mood tracking. App is connected via Google Firebase.
 
-I won an award for best innovative idea ( UX design ).
