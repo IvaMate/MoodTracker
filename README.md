@@ -1,4 +1,4 @@
-# myapp
+# Mood Tracker Mobile App 
 HackAD - Mood Tracker Mobile App
 Jun 2021
 
